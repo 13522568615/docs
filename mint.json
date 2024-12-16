@@ -31,7 +31,7 @@
       "url": "api-reference"
     },{
       "name": "测试文档",
-      "url": "api-reference"
+      "url": "test1"
     }
   ],
   "anchors": [
@@ -96,16 +96,7 @@
     {
       "group": "API Documentation分组5",
       "pages": [
-        "api-reference/introduction",
         "test1/codemoss"
-      ]
-    },
-    {
-      "group": "Endpoint Examples分组6",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
