@@ -22,12 +22,15 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "下载",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
       "name": "API 接口",
+      "url": "api-reference"
+    },{
+      "name": "测试文档",
       "url": "api-reference"
     }
   ],
@@ -59,7 +62,8 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "test1/codemoss"
       ]
     },
     {
