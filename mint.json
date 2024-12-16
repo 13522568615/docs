@@ -16,8 +16,8 @@
     }
   },
   "primaryTab": {
-    "name": "主页"
-  },
+    "name": "Home"
+ },
   "topbarLinks": [
     {
       "name": "技术支持",
