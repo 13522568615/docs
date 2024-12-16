@@ -15,12 +15,16 @@
       "to": "#07C983"
     }
   },
-  "primaryTab": {
+  <!-- "primaryTab": {
   "name": "Home",
-},
+  },
+  "topAnchor": {
+    "name": "Home",
+    "icon": "building"
+  }, -->
   "topbarLinks": [
     {
-      "name": "技术支持",
+      "name": "技术支持1",
       "url": "mailto:hi@mintlify.com"
     }
   ],
