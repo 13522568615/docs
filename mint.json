@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "技术支持",
       "url": "mailto:hi@mintlify.com"
     }
   ],
@@ -27,35 +27,35 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API 接口",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "1",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "2",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
+      "name": "3",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     },
     {
-      "name": "codemoss",
+      "name": "4",
       "icon": "newspaper",
       "url": "https://mp.csdn.net/mp_blog/manage/article?spm=1001.2101.3001.5448"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Get Started分组1",
       "pages": [
         "introduction",
         "quickstart",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Essentials分组2",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -75,13 +75,13 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "API Documentation分组3",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Endpoint Examples分组4",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
