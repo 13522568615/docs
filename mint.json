@@ -46,6 +46,11 @@
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "codemoss",
+      "icon": "newspaper",
+      "url": "https://mp.csdn.net/mp_blog/manage/article?spm=1001.2101.3001.5448"
     }
   ],
   "navigation": [
@@ -65,7 +70,8 @@
         "essentials/images",
         "essentials/settings",
         "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/reusable-snippets",
+        "test1/codemoss"
       ]
     },
     {
