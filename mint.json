@@ -15,9 +15,9 @@
       "to": "#07C983"
     }
   },
-  <!-- "primaryTab": {
-    "name": "Home"
-}, -->
+  "primaryTab": {
+    "name": "主页"
+  },
   "topbarLinks": [
     {
       "name": "技术支持",
