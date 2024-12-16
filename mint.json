@@ -15,6 +15,9 @@
       "to": "#07C983"
     }
   },
+  "primaryTab": {
+    "name": "CodeMoss文档"
+  }
   "topbarLinks": [
     {
       "name": "技术支持1",
