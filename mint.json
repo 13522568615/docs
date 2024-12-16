@@ -81,11 +81,27 @@
     {
       "group": "API Documentation分组3",
       "pages": [
-        "api-reference/introduction"
+        "api-reference/introduction",
+        "test1/codemoss"
       ]
     },
     {
       "group": "Endpoint Examples分组4",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "API Documentation分组5",
+      "pages": [
+        "api-reference/introduction",
+        "test1/codemoss"
+      ]
+    },
+    {
+      "group": "Endpoint Examples分组6",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
