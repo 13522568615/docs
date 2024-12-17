@@ -70,13 +70,13 @@
       ]
     },
     {
-      "group": "API Documentation分组3",
+      "group": "其他集成",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples分组4",
+      "group": "特点",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "group": "API Documentation分组5",
+      "group": "参考资料",
       "pages": [
         "test1/codemoss"
       ]
