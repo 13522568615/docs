@@ -20,7 +20,11 @@
   },
   "topbarLinks": [
     {
-      "name": "技术支持1",
+      "name": "技术支持",
+      "url": "mailto:hi@mintlify.com"
+    },
+    {
+      "name": "Github",
       "url": "mailto:hi@mintlify.com"
     }
   ],
@@ -28,35 +32,35 @@
     "name": "下载",
     "url": "https://dashboard.mintlify.com"
   },
-  "tabs": [
+  <!-- "tabs": [
     {
-      "name": "API 接口1",
+      "name": "API 接口",
       "url": "api-reference"
     },{
-      "name": "测试文档1",
+      "name": "测试文档",
       "url": "test1"
     }
-  ],
+  ], -->
   "anchors": [
     {
-      "name": "1",
+      "name": "文档",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "2",
+      "name": "API参考",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
+    },
+    {
+      "name": "指南",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "3",
+      "name": "常见问题",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
-    },
-    {
-      "name": "4",
-      "icon": "newspaper",
-      "url": "https://mp.csdn.net/mp_blog/manage/article?spm=1001.2101.3001.5448"
     }
   ],
   "navigation": [
