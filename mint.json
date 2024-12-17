@@ -16,7 +16,7 @@
     }
   },
   "primaryTab": {
-    "name": "CodeMoss文档"
+    "name": "文档"
   },
   "topbarLinks": [
     {
@@ -51,15 +51,15 @@
   ],
   "navigation": [
     {
-      "group": "Get Started分组1",
+      "group": "入门",
       "pages": [
-        "introduction",
+        "introduction/introduction1",
         "quickstart",
         "development"
       ]
     },
     {
-      "group": "Essentials分组2",
+      "group": "Dev集成",
       "pages": [
         "essentials/markdown",
         "essentials/code",
