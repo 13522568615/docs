@@ -32,15 +32,6 @@
     "name": "下载",
     "url": "https://dashboard.mintlify.com"
   },
-  <!-- "tabs": [
-    {
-      "name": "API 接口",
-      "url": "api-reference"
-    },{
-      "name": "测试文档",
-      "url": "test1"
-    }
-  ], -->
   "anchors": [
     {
       "name": "文档",
