@@ -34,11 +34,6 @@
   },
   "anchors": [
     {
-      "name": "文档",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
       "name": "API参考",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
