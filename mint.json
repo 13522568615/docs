@@ -53,9 +53,9 @@
     {
       "group": "入门",
       "pages": [
-        "introduction/introduction1",
-        "quickstart",
-        "development"
+        "introduction/introduce",
+        "introduction/TitleDirectory",
+        "zhouzongxin"
       ]
     },
     {
