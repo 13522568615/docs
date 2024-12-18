@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "CodeMoss",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "CodeMossLogo.jpg"
+    "dark": "codemosslogotu.png",
+    "light": "codemosslogotu.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/CodeMossLogo.jpg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
