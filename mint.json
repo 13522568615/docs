@@ -56,8 +56,8 @@
         "introduction/introduce",
         "introduction/TitleDirectory",
         {
-          "group": "入门-嵌入",
-          "pages": ["zhouzongxin"]
+          "group": "Self Host",
+          "pages": ["zhouzongxin1"]
         },
         "zhouzongxin"
       ]
