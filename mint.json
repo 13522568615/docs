@@ -16,12 +16,12 @@
     }
   },
   "primaryTab": {
-    "name": "Home"
+    "name": "文档"
   },
   "topbarLinks": [
     {
-      "name": "技术支持",
-      "url": "mailto:hi@mintlify.com"
+      "name": "CodeMoss",
+      "url": "https://pc.aihao123.cn/index.html"
     },
     {
       "name": "Github",
@@ -29,8 +29,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "下载",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Moss下载",
+    "url": "https://h5.aihao123.cn/pages/app/download/index.html"
   },
   "anchors": [
     {
