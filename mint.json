@@ -3,7 +3,7 @@
   "name": "CodeMoss",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "CodeMossLogo.jpg"
   },
   "favicon": "/favicon.svg",
   "colors": {
