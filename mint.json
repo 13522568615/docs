@@ -9,15 +9,16 @@
   "colors": {
     "primary": "#0709c9",
     "light": "#07C983",
-    "dark": "#07099d",
+    "dark": "#0709c9",
     "anchors": {
       "from": "#2e2fdf",
       "to": "#2e2fdf"
+    },
+    "primaryTab": {
+      "name": "文档"
     }
   },
-  "primaryTab": {
-    "name": "文档"
-  },
+  
   "topbarLinks": [
     {
       "name": "CodeMoss",
