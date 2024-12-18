@@ -13,12 +13,11 @@
     "anchors": {
       "from": "#2e2fdf",
       "to": "#2e2fdf"
-    },
-    "primaryTab": {
-      "name": "文档"
     }
   },
-  
+  "primaryTab": {
+    "name": "文档"
+  },
   "topbarLinks": [
     {
       "name": "CodeMoss",
