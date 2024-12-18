@@ -18,6 +18,7 @@
   "primaryTab": {
     "name": "文档"
   },
+  "search": "side",
   "topbarLinks": [
     {
       "name": "CodeMoss",
