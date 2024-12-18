@@ -91,7 +91,18 @@
     }
   ],
   "footerSocials": {
-    "CodeMossLogo": "https://pc.aihao123.cn/index.html",
-    "github": "https://github.com/mintlify"
+    "website": "https://your-website.com",
+    "facebook": "https://facebook.com/your-page",
+    "x": "https://x.com/your-profile",
+    "youtube": "https://youtube.com/your-channel",
+    "discord": "https://discord.gg/your-server",
+    "slack": "https://your-workspace.slack.com",
+    "github": "https://github.com/your-profile",
+    "linkedin": "https://linkedin.com/company/your-company",
+    "instagram": "https://instagram.com/your-profile",
+    "hacker-news": "https://news.ycombinator.com/user?id=your-username",
+    "medium": "https://medium.com/@your-profile",
+    "telegram": "https://t.me/your-channel",
+    "twitter": "https://twitter.com/your-profile"
   }
 }
