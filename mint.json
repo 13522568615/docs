@@ -89,9 +89,9 @@
         "test1/codemoss"
       ]
     }
-  ],
+  ]
   "footerSocials": {
-    "CodeMoss": "https://pc.aihao123.cn/index.html",
+    "CodeMossLogo": "https://pc.aihao123.cn/index.html",
     "github": "https://github.com/mintlify"
   }
 }
