@@ -6,7 +6,6 @@
     "light": "codemossliang.png"
   },
   "theme": "quill",
-  "layout": "solidSidenav",
   "favicon": "/CodeMossLogo.jpg",
   "colors": {
     "primary": "#0709c9",
