@@ -5,7 +5,7 @@
     "dark": "codemossan.png",
     "light": "codemossliang.png"
   },
-  "theme": "prism",
+  "theme": "venus",
   "favicon": "/CodeMossLogo.jpg",
   "colors": {
     "primary": "#0709c9",
