@@ -58,11 +58,11 @@
         {
           "group": "自托管",
           "pages": [
-            "introduction/selfHost/Overview",
-            "introduction/selfHost/Cloud",
-            "introduction/selfHost/DokerCompose",
-            "introduction/selfHost/Kubernetes",
-            "introduction/selfHost/Manual"
+            "documentation/introduction/selfHost/Overview",
+            "documentation/introduction/selfHost/Cloud",
+            "documentation/introduction/selfHost/DokerCompose",
+            "documentation/introduction/selfHost/Kubernetes",
+            "documentation/introduction/selfHost/Manual"
           ]
         }
       ]
