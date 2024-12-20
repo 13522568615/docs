@@ -59,7 +59,13 @@
         "introduction/introduce",
         {
           "group": "自托管",
-          "pages": ["zhouzongxin1"]
+          "pages": [
+          "introduction/selfHost/Overview",
+          "introduction/selfHost/Cloud",
+          "introduction/selfHost/DokerCompose",
+          "introduction/selfHost/Kubernetes",
+          "introduction/selfHost/Overview"
+          ]
         },
         "introduction/TitleDirectory",
         "zhouzongxin"
