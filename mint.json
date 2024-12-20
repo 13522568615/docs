@@ -5,7 +5,7 @@
     "dark": "codemossan.png",
     "light": "codemossliang.png"
   },
-  "theme": "Quill",
+  "theme": "quill",
   "layout": "sidenav",
   "favicon": "/CodeMossLogo.jpg",
   "colors": {
