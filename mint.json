@@ -92,20 +92,20 @@
       ]
     },
     {
-      "group": "入门指南",
+      "group": "指南",
       "pages": [
-        "introductionGuides/overview",
+        "introductionGuides/guides/overview",
         {
-          "group": "说明书",
+          "group": "入门教程",
           "pages": [
-            "introductionGuides/specification/userRequests",
-            "introductionGuides/specification/debugging"
+            "introductionGuides/guides/specification/userRequests",
+            "introductionGuides/guides/specification/debugging"
           ]
         },
         {
           "group": "提示词工程",
           "pages": [
-            "introductionGuides/promptEngineering/overview"
+            "introductionGuides/guides/promptEngineering/overview"
           ]
         }
       ]
@@ -113,20 +113,7 @@
     {
       "group": "应用",
       "pages": [
-        "guides/overview",
-        {
-          "group": "说明书",
-          "pages": [
-            "introductionGuides/specification/userRequests",
-            "introductionGuides/specification/debugging"
-          ]
-        },
-        {
-          "group": "提示词工程",
-          "pages": [
-            "introductionGuides/promptEngineering/overview"
-          ]
-        }
+        "introductionGuides/applications/overview"
       ]
     }
   ],
