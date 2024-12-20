@@ -28,9 +28,6 @@
       "url": "https://mintlify.com/docs/quickstart"
     }
   ],
-  "primaryTab": {
-    "name": "文档"
-  },
   "topbarCtaButton": {
     "name": "Moss下载",
     "url": "https://h5.aihao123.cn/pages/app/download/index.html"
@@ -60,13 +57,13 @@
         {
           "group": "自托管",
           "pages": [
-          "introduction/selfHost/Overview",
-          "introduction/selfHost/Cloud",
-          "introduction/selfHost/DokerCompose",
-          "introduction/selfHost/Kubernetes",
-          "introduction/selfHost/Manual"
+            "introduction/selfHost/Overview",
+            "introduction/selfHost/Cloud",
+            "introduction/selfHost/DokerCompose",
+            "introduction/selfHost/Kubernetes",
+            "introduction/selfHost/Manual"
           ]
-        },
+        }
       ]
     },
     {
@@ -104,7 +101,7 @@
             "guides/specification/userRequests",
             "guides/specification/debugging"
           ]
-        },
+        }
       ]
     }
   ],
@@ -112,7 +109,6 @@
     "website": "https://your-website.com",
     "facebook": "https://facebook.com/your-page",
     "x": "https://x.com/your-profile",
-    "youtube": "https://youtube.com/your-channel",
     "discord": "https://discord.gg/your-server",
     "slack": "https://your-workspace.slack.com",
     "github": "https://github.com/your-profile",
