@@ -58,11 +58,11 @@
         {
           "group": "自托管",
           "pages": [
-            "documentation/introduction/selfHost/Overview",
-            "documentation/introduction/selfHost/Cloud",
-            "documentation/introduction/selfHost/DokerCompose",
-            "documentation/introduction/selfHost/Kubernetes",
-            "documentation/introduction/selfHost/Manual"
+            "documentation/selfHost/Overview",
+            "documentation/selfHost/Cloud",
+            "documentation/selfHost/DokerCompose",
+            "documentation/selfHost/Kubernetes",
+            "documentation/selfHost/Manual"
           ]
         }
       ]
@@ -70,12 +70,19 @@
     {
       "group": "Dev集成",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        {
+          "group": "通用网关",
+          "pages": [
+            "documentation/devIntegrations/genericGaeway/gatewayintegration",
+            "documentation/devIntegrations/genericGaeway/custinModel"
+          ]
+        },
+        {
+          "group": "OpenAI",
+          "pages": [
+            "documentation/devIntegrations/openai"
+          ]
+        }
       ]
     },
     {
