@@ -29,7 +29,7 @@
     }
   ],
   "primaryTab": {
-    "name": "文档1"
+    "name": "文档"
   },
   "topbarCtaButton": {
     "name": "Moss下载",
@@ -42,14 +42,14 @@
       "url": "api-reference"
     },
     {
-      "name": "指南",
+      "name": "入门指南",
       "icon": "slack",
       "url": "test1"
     },
     {
       "name": "常见问题",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://mintlify.com/docs/settings/navigation"
     }
   ],
   "navigation": [
@@ -64,11 +64,9 @@
           "introduction/selfHost/Cloud",
           "introduction/selfHost/DokerCompose",
           "introduction/selfHost/Kubernetes",
-          "introduction/selfHost/Overview"
+          "introduction/selfHost/Manual"
           ]
         },
-        "introduction/TitleDirectory",
-        "zhouzongxin"
       ]
     },
     {
@@ -97,9 +95,16 @@
       ]
     },
     {
-      "group": "参考资料",
+      "group": "入门指南",
       "pages": [
-        "test1/codemoss"
+        "guides/overview",
+        {
+          "group": "说明书",
+          "pages": [
+            "guides/specification/userRequests",
+            "guides/specification/debugging"
+          ]
+        },
       ]
     }
   ],
