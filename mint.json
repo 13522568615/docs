@@ -41,7 +41,7 @@
     {
       "name": "入门指南",
       "icon": "slack",
-      "url": "introductionGuides"
+      "url": "guidess"
     },
     {
       "name": "常见问题",
@@ -94,18 +94,18 @@
     {
       "group": "指南",
       "pages": [
-        "introductionGuides/guides/overview",
+        "guidess/guides/overview",
         {
           "group": "入门教程",
           "pages": [
-            "introductionGuides/guides/specification/userRequests",
-            "introductionGuides/guides/specification/debugging"
+            "guidess/guides/specification/userRequests",
+            "guidess/guides/specification/debugging"
           ]
         },
         {
           "group": "提示词工程",
           "pages": [
-            "introductionGuides/guides/promptEngineering/overview"
+            "guidess/guides/promptEngineering/overview"
           ]
         }
       ]
@@ -113,7 +113,7 @@
     {
       "group": "应用",
       "pages": [
-        "introductionGuides/applications/overview"
+        "guidess/applications/overview"
       ]
     }
   ],
