@@ -5,8 +5,8 @@
     "dark": "codemossan.png",
     "light": "codemossliang.png"
   },
-  "theme": "prism",
-  "layout": "sidenav",
+  "theme": "quill",
+  "layout": "solidSidenav",
   "favicon": "/CodeMossLogo.jpg",
   "colors": {
     "primary": "#0709c9",
