@@ -54,7 +54,7 @@
     {
       "group": "入门",
       "pages": [
-        "introduction/introduce",
+        "documentation/introduction",
         {
           "group": "自托管",
           "pages": [
